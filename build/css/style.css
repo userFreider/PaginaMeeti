@@ -10782,7 +10782,9 @@ textarea.form-control-lg {
     padding-bottom: 10rem;
   }
 }
-.header .logo {
+
+/*aplica para todo la pagina*/
+.logo {
   width: 10rem;
 }
 
