@@ -11,6 +11,10 @@ $primary: $rojo;
 $secondary: $verde;
 $dark: $oscuro;
 
+/** Card **/
+$card-border-color: transparent;
+
 
 //importar bootstrap toda la libreia para compilar
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
+ 
