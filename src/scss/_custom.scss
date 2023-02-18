@@ -1,0 +1,13 @@
+//reescribir las clases de boostrap
+$rojo:#F34F51;
+$verde:#0098AE;
+$oscuro:#212121;
+
+//asignar paleta de colores a boostrap
+$primary: $rojo;
+$secondary: $verde;
+$dark: $oscuro;
+
+
+//importar bootstrap toda la libreia para compilar
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';

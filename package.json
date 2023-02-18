@@ -1,0 +1,15 @@
+{
+  "name": "meeti",
+  "version": "1.0.0",
+  "description": "Aprendiendo Bootstrap 5 y SASS",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "author": "freyder montano",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.58.2"
+  }
+}
