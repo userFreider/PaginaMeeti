@@ -3,6 +3,9 @@ $rojo:#F34F51;
 $verde:#0098AE;
 $oscuro:#212121;
 
+$gris:#B5B5B5;
+
+
 /* Tipografia*/
 $headings-font-weight:700;
 
@@ -13,6 +16,12 @@ $dark: $oscuro;
 
 /** Card **/
 $card-border-color: transparent;
+
+/** nav-link**/
+$nav-link-padding-x:                1rem !default;
+
+$nav-link-color:$gris;
+$nav-link-hover-color:darken($gris, 10%);
 
 
 //importar bootstrap toda la libreia para compilar
