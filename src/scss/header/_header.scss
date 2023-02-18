@@ -1,9 +1,18 @@
 @use '../custom' as *;
 
-.header{
+.header {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    /* media query */
+    @include media-breakpoint-up(md) {
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+    }
 
-    .logo{
+    .logo {
         width: 10rem;
     }
-    
+
+
+
 }
